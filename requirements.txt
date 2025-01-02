@@ -1,0 +1,15 @@
+torch==1.12.0
+transformers==4.21.0
+sentencepiece==0.1.97
+tqdm==4.64.0
+tensorboardX==2.6.2.2
+nltk==3.9.1
+yacs==0.1.8
+dill==0.3.8
+datasets==2.19.2
+rouge==1.0.0
+pyarrow==18.0.0
+pandas==1.4.3
+scipy==1.7.3
+numpy==1.21.6
+scikit-learn==1.5.2
