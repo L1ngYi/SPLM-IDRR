@@ -1,6 +1,6 @@
 # Soft Prompting with Logical Semantics Enhancement for Implicit Discourse Relation Recognition
 
-The Code for the  "**Soft Prompting with Logical Semantics Enhancement for Implicit Discourse Relation Recognition**".
+The Code for the  "**A Soft Prompt Learning Method for Implicit Discourse Relation Recognition**".
 
 ## **Dependence Installation**
 
